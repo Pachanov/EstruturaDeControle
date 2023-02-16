@@ -1,0 +1,15 @@
+C:\Users\Victor\Desktop\JornadaNETnew\EstruturaDeControle1\bin\Debug\net6.0\EstruturaDeControle1.exe
+C:\Users\Victor\Desktop\JornadaNETnew\EstruturaDeControle1\bin\Debug\net6.0\EstruturaDeControle1.deps.json
+C:\Users\Victor\Desktop\JornadaNETnew\EstruturaDeControle1\bin\Debug\net6.0\EstruturaDeControle1.runtimeconfig.json
+C:\Users\Victor\Desktop\JornadaNETnew\EstruturaDeControle1\bin\Debug\net6.0\EstruturaDeControle1.dll
+C:\Users\Victor\Desktop\JornadaNETnew\EstruturaDeControle1\bin\Debug\net6.0\EstruturaDeControle1.pdb
+C:\Users\Victor\Desktop\JornadaNETnew\EstruturaDeControle1\obj\Debug\net6.0\EstruturaDeControle1.csproj.AssemblyReference.cache
+C:\Users\Victor\Desktop\JornadaNETnew\EstruturaDeControle1\obj\Debug\net6.0\EstruturaDeControle1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Victor\Desktop\JornadaNETnew\EstruturaDeControle1\obj\Debug\net6.0\EstruturaDeControle1.AssemblyInfoInputs.cache
+C:\Users\Victor\Desktop\JornadaNETnew\EstruturaDeControle1\obj\Debug\net6.0\EstruturaDeControle1.AssemblyInfo.cs
+C:\Users\Victor\Desktop\JornadaNETnew\EstruturaDeControle1\obj\Debug\net6.0\EstruturaDeControle1.csproj.CoreCompileInputs.cache
+C:\Users\Victor\Desktop\JornadaNETnew\EstruturaDeControle1\obj\Debug\net6.0\EstruturaDeControle1.dll
+C:\Users\Victor\Desktop\JornadaNETnew\EstruturaDeControle1\obj\Debug\net6.0\refint\EstruturaDeControle1.dll
+C:\Users\Victor\Desktop\JornadaNETnew\EstruturaDeControle1\obj\Debug\net6.0\EstruturaDeControle1.pdb
+C:\Users\Victor\Desktop\JornadaNETnew\EstruturaDeControle1\obj\Debug\net6.0\EstruturaDeControle1.genruntimeconfig.cache
+C:\Users\Victor\Desktop\JornadaNETnew\EstruturaDeControle1\obj\Debug\net6.0\ref\EstruturaDeControle1.dll
